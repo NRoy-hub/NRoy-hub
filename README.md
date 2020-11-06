@@ -1,4 +1,4 @@
-### 안녕하세요 ![HiImage](./hi.gif){:width="100" height="100"}
+### 안녕하세요 <img src="./hi.gif" width="25px">
 
 <!--
 **NRoy-hub/NRoy-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
